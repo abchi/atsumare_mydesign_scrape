@@ -1,1 +1,2 @@
 # atsumare_mydesign_scrape
+あつまれマイデザインのデータ抽出用プログラム
